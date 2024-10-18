@@ -4,10 +4,13 @@ Hi! My name is **Łukasz Jargieło** and I am a pharmacist by training.  I becam
 
 ## Get to know me better
 
--⚡ [Appearance in Dymitr Błaszczyk's podcast "Bez tajemnic"](https://youtu.be/_5q8N4TrtP8?si=-yUYk-pOp-hdXG8)
--⚡ [Appearance in the video material of the series “Podróże pod róże” under the auspices of the STOMAlife Foundation](https://stomalife.pl/lukasz-jargielo-1)
--⚡ [#1 STOMAlife foundation article about me](https://stomalife.pl/lukasz-jargielo)
--⚡ [#2 STOMAlife foundation article about me](https://stomalife.pl/lukasz-jargielo-2)
+⚡ [Appearance in Dymitr Błaszczyk's podcast "Bez tajemnic"](https://youtu.be/_5q8N4TrtP8?si=-yUYk-pOp-hdXG8)
+
+⚡ [Appearance in the video material of the series “Podróże pod róże” under the auspices of the STOMAlife Foundation](https://stomalife.pl/lukasz-jargielo-1)
+
+⚡ [#1 STOMAlife foundation article about me](https://stomalife.pl/lukasz-jargielo)
+
+⚡ [#2 STOMAlife foundation article about me](https://stomalife.pl/lukasz-jargielo-2)
 
 <!--
 **lukaszjargielo/lukaszjargielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
